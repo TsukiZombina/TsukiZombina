@@ -1,9 +1,20 @@
+<!--**TsukiZombina/TsukiZombina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
+
+  
+  Hi there 👋
+- 🔭 I’m currently working on predictive pipelines with Spark
+- 🌱 I’m currently learning FullStack development with JS
+- 👯 I’m looking to collaborate on Chemometrics
+- 🤔 I’m looking for help with Lattice Boltzmann project
+- 💬 Ask me about ML
+- 📫 How to reach me: By twitter
+- 😄 Pronouns: Any pronouns
+- ⚡ Fun fact: I love clouds
                                               
 <div align="center">
   
-  ```
-  Hi there 👋
-  ```
   ![Tsuki's github stats](https://github-readme-stats.vercel.app/api?username=TsukiZombina&count_private=true&show_icons=true&theme=buefy)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiZombina&theme=buefy&layout=compact)](https://github.com/TsukiZombina/github-readme-stats)
 
@@ -34,16 +45,3 @@
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
-
-<!--**TsukiZombina/TsukiZombina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on predictive pipelines with Spark
-- 🌱 I’m currently learning FullStack development with JS
-- 👯 I’m looking to collaborate on Chemometrics
-- 🤔 I’m looking for help with Lattice Boltzmann project
-- 💬 Ask me about ML
-- 📫 How to reach me: By twitter
-- 😄 Pronouns: Any pronouns
-- ⚡ Fun fact: I love clouds
