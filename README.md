@@ -5,13 +5,13 @@ Here are some ideas to get you started: -->
   
   Hi there 👋
 - 🔭 I’m currently working on predictive pipelines with Spark
-- 🌱 I’m currently learning FullStack development with JS
-- 👯 I’m looking to collaborate on Chemometrics
+- 🌱 I’m currently learning Mobile development with Kotlin
+- 👯 I’m looking to collaborate on Chemometrics ⚛️
 - 🤔 I’m looking for help with Lattice Boltzmann project
 - 💬 Ask me about ML
 - 📫 How to reach me: By twitter
 - 😄 Pronouns: Any pronouns
-- ⚡ Fun fact: I love clouds
+- ⚡ Fun fact: I love clouds ☁️
                                               
 <div align="center">
   
