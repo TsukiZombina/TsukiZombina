@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <div align="center">
   
   ![Tsuki's github stats](https://github-readme-stats.vercel.app/api?username=TsukiZombina&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiZombina&theme=tokyonight&layout=compact)](https://github.com/TsukiZombina/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiZombina&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/TsukiZombina/github-readme-stats)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TsukiZombina&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   ![Cute](https://media0.giphy.com/media/2uI9e0C0kjP4a4lVBe/giphy.gif)
   
