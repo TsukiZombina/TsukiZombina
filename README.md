@@ -14,6 +14,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love clouds ☁️
                                               
 <div align="center">
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=TsukiZombina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   ![Tsuki's github stats](https://github-readme-stats.vercel.app/api?username=TsukiZombina&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiZombina&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/TsukiZombina/github-readme-stats)
