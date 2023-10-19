@@ -9,11 +9,12 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Chemometrics ⚛️
 - 🤔 I’m looking for help with Lattice Boltzmann project
 - 💬 Ask me about ML
-- 📫 How to reach me: [tsuki_@mastodon.social](tsuki_@mastodon.social)
+- 📫 How to reach me: [tsuki_@mastodon.social](https://mastodon.social/@tsuki_)
 - 😄 Pronouns: Any pronouns
 - ⚡ Fun fact: I love clouds ☁️
                                               
 <div align="center">
+  
   ![Cute](https://media0.giphy.com/media/2uI9e0C0kjP4a4lVBe/giphy.gif)
   ![Tsuki's github stats](https://github-readme-stats.vercel.app/api?username=TsukiZombina&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiZombina&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/TsukiZombina/github-readme-stats)
