@@ -4,22 +4,21 @@ Here are some ideas to get you started: -->
 
   
   Hi there 👋
-- 🔭 I’m currently working on predictive pipelines with Spark
-- 🌱 I’m currently learning Mobile development with Kotlin
+- 🔭 I’m currently working on fine-tuning LLM models
+- 🌱 I’m currently learning mathematics for ML
 - 👯 I’m looking to collaborate on Chemometrics ⚛️
 - 🤔 I’m looking for help with Lattice Boltzmann project
 - 💬 Ask me about ML
-- 📫 How to reach me: By twitter
+- 📫 How to reach me: [tsuki_@mastodon.social](tsuki_@mastodon.social)
 - 😄 Pronouns: Any pronouns
 - ⚡ Fun fact: I love clouds ☁️
                                               
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=TsukiZombina&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Cute](https://media0.giphy.com/media/2uI9e0C0kjP4a4lVBe/giphy.gif)
   ![Tsuki's github stats](https://github-readme-stats.vercel.app/api?username=TsukiZombina&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiZombina&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/TsukiZombina/github-readme-stats)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TsukiZombina&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  ![Cute](https://media0.giphy.com/media/2uI9e0C0kjP4a4lVBe/giphy.gif)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=TsukiZombina&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
